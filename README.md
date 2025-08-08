@@ -1,4 +1,4 @@
-# grepu
+# minigrep
 
 A simple command-line utility written in Rust for searching text within files.
 
@@ -7,8 +7,8 @@ A simple command-line utility written in Rust for searching text within files.
 Clone the repository and build with Cargo:
 
 ```bash
-git clone https://github.com/roybooty/grepu.git
-cd grepu
+git clone https://github.com/roybooty/minigrep.git
+cd minigrep
 cargo build --release
 ```
 
